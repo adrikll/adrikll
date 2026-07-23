@@ -19,7 +19,7 @@
 
 ---
 
-### 🛠️ Languages and Tools
+### Languages and Tools
 
 #### Data Science, AI & Machine Learning
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -59,6 +59,6 @@
 ### GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adrikll&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="GitHub Stats" height="175" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrikll&layout=compact&theme=dracula&hide=html" alt="Most Used Languages" height="175" />
+  <img src="https://github-readme-stats.vercel.app/api?username=adrikll&show_icons=true&theme=dracula" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-streak-stats.demolab.com/?user=adrikll&theme=dracula" alt="GitHub Streak" height="165" />
 </div>
