@@ -12,7 +12,7 @@
 
 ### About Me
 
-* 🎓 **Data Scientist** from Federal University of Ceará (UFC).
+* 🎓 **Data Scientist** | Federal University of Ceará (UFC).
 * Working in **Data Analysis, Machine Learning, and Artificial Intelligence**.
 * **English**: B2 Upper Intermediate.
 * **Location**: Fortaleza / CE, Brazil.
