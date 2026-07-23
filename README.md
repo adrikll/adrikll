@@ -56,9 +56,4 @@
 
 ---
 
-### GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=adrikll&show_icons=true&theme=dracula" />
-  <img height="165" src="https://github-readme-streak-stats.demolab.com?user=adrikll&theme=dracula" />
-</p>
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=adrikll&theme=dracula)
