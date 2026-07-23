@@ -56,4 +56,6 @@
 
 ---
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrikll&layout=compact&theme=dracula" />
+<div align="center">
+  <img src="https://ghchart.rshah.org/adrikll" alt="Adriane's GitHub Contributions" />
+</div>
