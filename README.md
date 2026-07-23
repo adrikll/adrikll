@@ -56,6 +56,3 @@
 
 ---
 
-<div align="center">
-  <img src="https://ghchart.rshah.org/adrikll" alt="Adriane's GitHub Contributions" />
-</div>
